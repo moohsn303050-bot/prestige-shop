@@ -1,0 +1,51 @@
+{
+  "appName": "برستيج",
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "cart": "السلة",
+    "orders": "الطلبات",
+    "profile": "حسابي",
+    "contact": "تواصل"
+  },
+  "auth": {
+    "login": "سجل دخول",
+    "logout": "تسجيل خروج",
+    "register": "مستخدم جديد",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة السر",
+    "phone": "رقم الموبايل"
+  },
+  "product": {
+    "add_to_cart": "أضف للسلة",
+    "buy_now": "اشتري الآن",
+    "description": "الوصف",
+    "price": "السعر",
+    "stock": "المخزون"
+  },
+  "cart": {
+    "empty": "السلة فاضية",
+    "checkout": "اطلب الآن",
+    "total": "الإجمالي"
+  },
+  "checkout": {
+    "cash_on_delivery": "الدفع عند الاستلام",
+    "enter_address": "اكتب عنوانك",
+    "place_order": "تأكيد الطلب"
+  },
+  "support": {
+    "contact_us": "اتصل بينا",
+    "whatsapp": "راسلنا على واتساب",
+    "chat_with_us": "دردشة الدعم"
+  },
+  "loyalty": {
+    "points": "نقاط الولاء",
+    "earn_points": "اجمع نقاط",
+    "redeem": "استبدال بالخصم"
+  },
+  "messages": {
+    "welcome": "أهلاً بيك في برستيج",
+    "order_success": "تم استلام طلبك بنجاح",
+    "error": "حصل خطأ، حاول تاني"
+  }
+}
